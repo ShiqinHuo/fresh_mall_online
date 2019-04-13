@@ -1,11 +1,11 @@
 # fresh_mall_online
 Vue+Django REST framework Project 
 
-1. Vue - Frontend
+### Vue - Frontend
   * **API Interface**
   * **Vue components**
   * **Structure**
-2. **Django rest framework** **(Core)**
+### **Django rest framework** **(Core)**
   * Restful API development
     * **ApiView - API**
     * **GenericView - API Interface**
@@ -30,9 +30,9 @@ Vue+Django REST framework Project
     * Documentation - Automatic management
     * Cache for Django rest framework
     * Throttling for limited speed for Users/IPs
-3. xadmin - backend admin system
+### xadmin - backend admin system
 
-4. Common issues
+### Common issues
   * Bugs which cannot be refound in localhost
   * Bugs in API Interface -- Hard to locate
   * API Documentation Management Issues
@@ -40,7 +40,7 @@ Vue+Django REST framework Project
   * Did not update the doc immediately -- Trouble for testing APIs
   * Anti-Crawler -- Limitation for API's visiting frequency: 1min/1h/1d
   * Cache for API speeding -- Categories for products(slight shift)
-5. Solutions to common issues
+### Solutions to common issues
   * PyCharm - debugging for remote server
     * Payment
     * Third-party login
@@ -59,12 +59,12 @@ Vue+Django REST framework Project
     * Limitation for APIs' Visiting frequency
   * Third-party Framework 
     * Cache issues - Speed up
-6. Advanced Django
+### Advanced Django
   * Django migrations - Principles
   * Django Signal
   * Whole process -- **request - response**
   * Model for independent use
-7. Vue Basics
+### Vue Basics
   * Tech Stack Analysis
     * pros & cons
   * APIs' data to be filled in Vue components
